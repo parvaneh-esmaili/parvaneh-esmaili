@@ -9,11 +9,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🌱 Currently learning **Angular** and **Three.js**
+- 🌱 Currently diving deep into **Angular** and **Three.js**
 - 🎨 Passionate about **Web Design** and **Frontend Development**
-- 🛠️ Exploring creative coding and interactive UI
+- 🛠️ Exploring creative coding, interactive UI, and immersive web experiences
+- 🔍 I thrive on solving the kinds of problems most people run away from
 - 📫 Reach me at: [Parvanehun@gmail.com](mailto:Parvanehun@gmail.com)
-
 ---
 
 ## 🧰 Tech Stack
@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,angular,vscode,webstorm" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,angular,vscode,webstorm,git,figma" alt="My Skills" />
   </a>
 </p>
 
